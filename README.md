@@ -28,16 +28,6 @@
 
 ---
 
-📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImanolSolano&show_icons=true&theme=radical" alt="stats" />
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=ImanolSolano&theme=radical" alt="streak"/>
-</p>
-
----
-
 🧩 Emprendimiento
 
 🎨 Soy fundador de "3DCreatorSS", un proyecto de fabricación digital donde creamos desde prototipos hasta productos personalizados usando impresión 3D, corte y grabado láser.  
