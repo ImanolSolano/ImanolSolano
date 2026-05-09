@@ -53,15 +53,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ImanolSolano&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImanolSolano&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 💡 Personal Motto
 
 > *"I transform ideas into code — and code into real-world solutions."*
@@ -69,5 +60,12 @@
 ---
 
 ## 📫 Let's Connect
+<h2 align="center">📫 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ima-solano">
+    <img src="https://img.shields.io/badge/LinkedIn-Imanol%20Solano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 Feel free to explore my repositories and connect with me.
